@@ -7,7 +7,6 @@ Client python code on User's machine and server python code on the machine which
 Requirements
 
 Install Pycrypto library
-Install Python 2.7 or 3.1
 
 Features
 ---------------------------------------------
