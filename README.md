@@ -4,6 +4,11 @@ Client python code on User's machine and server python code on the machine which
 
 ** Works in Both Windows as Well as Linux operating systems.
 
+Requirements
+
+Install Pycrypto library
+Install Python 2.7 or 3.1
+
 Features
 ---------------------------------------------
 1] Selective AES Encryption
